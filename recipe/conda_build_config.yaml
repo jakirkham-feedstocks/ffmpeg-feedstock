@@ -1,0 +1,6 @@
+x264:
+  - 20180501
+
+pin_run_as_build:
+  x264:
+    max_pin: xxxx
